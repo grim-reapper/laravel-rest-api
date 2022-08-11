@@ -7,7 +7,6 @@ use App\Http\Resources\VI\ImageManipulationResource;
 use App\Models\Album;
 use App\Models\ImageManipulation;
 use App\Http\Requests\ResizeImageRequest;
-use App\Http\Requests\UpdateImageManipulationRequest;
 use Illuminate\Http\Request;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Facades\File;
